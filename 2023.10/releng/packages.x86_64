@@ -20,13 +20,13 @@ mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
 mpv
+nautilus
 neovim
 networkmanager
 networkmanager-openrc
 network-manager-applet
 openssh
 paru-bin
-pcmanfm-gtk3
 picom
 qt5ct
 qt6ct
@@ -40,6 +40,7 @@ ttf-hack-nerd
 openrc
 virtualbox-guest-utils-nox
 wireplumber
+xorg-setxkbmap
 xorg-xinput
 zathura
 zathura-pdf-poppler
